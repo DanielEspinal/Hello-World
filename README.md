@@ -1,2 +1,3 @@
 # Hello-World
-Practice program
+
+Hello mortals, this is my first repository using Github.
